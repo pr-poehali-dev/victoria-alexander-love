@@ -6,7 +6,7 @@ const Index = () => {
   const photos = [
     {
       id: 1,
-      url: "https://cdn.poehali.dev/projects/9baf5950-33d1-4e83-a43d-1f70151773a6/files/fd6a27c8-37f2-4624-aa6b-acf2993d08f3.jpg",
+      url: "https://cdn.poehali.dev/files/9b865712-0d15-440b-92ae-60bff66c686b.jpg",
       title: "Наша история начинается"
     },
     {
